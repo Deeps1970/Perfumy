@@ -25,9 +25,7 @@ Welcome to **Perfumy**, my first e-commerce web project designed to showcase pre
 
 ## 📸 Screenshots
 
-![Homepage Screenshot](./2ea57c9e-158e-4ba3-8189-2feab02b8066.png)
-
-_Add more screenshots in `/assets` and update links here._
+![Homepage Screenshot](./perfumy.png)
 
 ---
 
