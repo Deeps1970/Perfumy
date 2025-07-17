@@ -47,3 +47,11 @@ Welcome to **Perfumy**, my first e-commerce web project designed to showcase pre
    cd perfumy
 
 3. Open `index.html` in your browser.
+```
+## 📬 Contact
+📧 thiagarajandeepu2007@gmail.com
+📞 +91 63832 63688
+
+## Credits
+
+Built with ❤️ by Deepak B T
