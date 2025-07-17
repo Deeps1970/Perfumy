@@ -8,7 +8,7 @@ Welcome to **Perfumy**, my first e-commerce web project designed to showcase pre
 
 ## 🌐 Live Demo
 
-- [Click Here to See Live Demo!](https://deeps1970.github.io/Netflix-Clone/)
+- [Click Here to See Live Demo!](https://deeps1970.github.io/Perfumy/)
 
 ---
 
