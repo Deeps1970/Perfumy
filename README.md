@@ -41,7 +41,7 @@ Welcome to **Perfumy**, my first e-commerce web project designed to showcase pre
 
 ```bash
 1. Clone the repository:
-   git clone https://github.com/your-username/perfumy.git
+   git clone https://github.com/Deeps1970/perfumy.git
 
 2. Navigate to the project folder:
    cd perfumy
