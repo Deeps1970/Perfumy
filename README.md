@@ -6,6 +6,12 @@ Welcome to **Perfumy**, my first e-commerce web project designed to showcase pre
 
 ---
 
+## 🌐 Live Demo
+
+- [Click Here to See Live Demo!](https://deeps1970.github.io/Netflix-Clone/)
+
+---
+
 ## ✨ Features
 
 - 🛍️ Product showcase with images and descriptions  
